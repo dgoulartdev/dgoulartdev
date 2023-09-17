@@ -1,4 +1,10 @@
-### Hi there 👋
+## Olá Pessoal
+
+Me chamo Douglas Goulart e estou iniciando minha jornada como desenvolvedor Back-End. Anteriormente, trabalhei como designer por 7 anos, e agora estou em uma transição de carreira empolgante.
+
+### Para me encontrar:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-goulart/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dougggz/)
 
 <!--
 **dgoulartdev/dgoulartdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
