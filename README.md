@@ -13,6 +13,8 @@ Me chamo Douglas Goulart e estou iniciando minha jornada como desenvolvedor Back
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=dgoulartdev&theme=tokyonight&custom_title=Linguagens%20%Principal)
 <!--
 **dgoulartdev/dgoulartdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
