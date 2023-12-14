@@ -1,6 +1,10 @@
 ## Olá Pessoal
 
-Me chamo Douglas Goulart e estou iniciando minha jornada como desenvolvedor Back-End. Anteriormente, trabalhei como designer por 7 anos, e agora estou em uma transição de carreira empolgante.
+Designer com sete anos de experiência, estou em transição para o desenvolvimento back-end. Minhas principais stacks são JavaScript, Node.js, SQL e JSON.
+
+Minha jornada como designer me deu uma visão única da interseção entre forma e funcionalidade, agora aplico esse olhar minucioso na construção de soluções robustas.
+
+Meu desejo por aprendizado constante e minha vontade de enfrentar novos desafios impulsionam essa mudança. Estou animado para colaborar em projetos desafiadores, unindo criatividade e habilidades técnicas para impulsionar a inovação.
 
 ### Para me encontrar:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-goulart/)
