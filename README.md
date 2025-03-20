@@ -1,6 +1,6 @@
 ## Olá Pessoal
 
-Designer com sete anos de experiência, estou em transição para o desenvolvimento back-end. Minhas principais stacks são JavaScript, Node.js, SQL e JSON.
+Designer com sete anos de experiência, estou em transição para o desenvolvimento back-end. Minhas principais stacks são JavaScript, Node.js, SQL.
 
 Minha jornada como designer me deu uma visão única da interseção entre forma e funcionalidade, agora aplico esse olhar minucioso na construção de soluções robustas.
 
