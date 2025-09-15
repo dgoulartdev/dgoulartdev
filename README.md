@@ -1,10 +1,10 @@
 ## Olá Pessoal
 
-Designer com sete anos de experiência, estou em transição para o desenvolvimento back-end. Minhas principais stacks são JavaScript, Node.js, SQL.
+Designer que migrou para a área de tecnologia, atualmente em formação em Análise e Desenvolvimento de Sistemas.
 
-Minha jornada como designer me deu uma visão única da interseção entre forma e funcionalidade, agora aplico esse olhar minucioso na construção de soluções robustas.
+Atuo no desenvolvimento de aplicações full stack utilizando JavaScript/TypeScript. Tenho experiência com Node.js e Python no backend, Vue.js e Pinia no frontend, integração de APIs REST e persistência de dados em bancos de dados relacionais como PostgreSQL.
 
-Meu desejo por aprendizado constante e minha vontade de enfrentar novos desafios impulsionam essa mudança. Estou animado para colaborar em projetos desafiadores, unindo criatividade e habilidades técnicas para impulsionar a inovação.
+Também faço uso de Git/GitHub para versionamento e boas práticas de desenvolvimento colaborativo. Atualmente, estou ampliando minhas competências com Docker, práticas de CI/CD e fundamentos de AWS, visando maior robustez e escalabilidade das aplicações.
 
 ### Para me encontrar:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-goulart/)
