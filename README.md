@@ -1,10 +1,12 @@
 ## Olá Pessoal
 
-Designer que migrou para a área de tecnologia, atualmente em formação em Análise e Desenvolvimento de Sistemas.
+Trabalho com desenvolvimento web e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Meu dia a dia envolve transformar requisitos em código, focando principalmente em Vue.js, Node.js e Python.
 
-Atuo no desenvolvimento de aplicações full stack utilizando JavaScript/TypeScript. Tenho experiência com Node.js e Python no backend, Vue.js e Pinia no frontend, integração de APIs REST e persistência de dados em bancos de dados relacionais como PostgreSQL.
+Tenho experiência prática usando NestJS e TypeScript no backend, além de lidar com bancos de dados SQL e Supabase. No frontend, costumo usar o PrimeVue para agilizar a construção das interfaces. Meu foco é entregar o que foi pedido com um código limpo e que funcione bem.
 
-Também faço uso de Git/GitHub para versionamento e boas práticas de desenvolvimento colaborativo. Atualmente, estou ampliando minhas competências com Docker, práticas de CI/CD e fundamentos de AWS, visando maior robustez e escalabilidade das aplicações.
+Para expandir o que eu já sei, no momento estou estudando React e Tailwind CSS.
+
+Minha experiência anterior como designer gráfico me proporcionou uma base sólida em design e desenvolvimento visual.
 
 ### Para me encontrar:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-goulart/)
@@ -13,10 +15,15 @@ Também faço uso de Git/GitHub para versionamento e boas práticas de desenvolv
 ### Hard Skills: 
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/tailwindcss-38bdf8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=dgoulartdev&theme=tokyonight&custom_title=Linguagens%20%Principal)
 <!--
