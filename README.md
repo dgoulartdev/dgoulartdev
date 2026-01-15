@@ -25,7 +25,6 @@ Minha experiência anterior como designer gráfico me proporcionou uma base sól
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=dgoulartdev&theme=tokyonight&custom_title=Linguagens%20%Principal)
 <!--
 **dgoulartdev/dgoulartdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
